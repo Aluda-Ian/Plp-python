@@ -13,5 +13,13 @@ else:
 
 #match case refactor
 match http_status:
-    case 200:
+    case 200 | 201:
         print("Sucess!")
+    case 400:
+        print("bad request !")    
+    case 401:
+        print("not found")  
+    case 500 | 501 :
+        print('server error') 
+    case _:
+        print('unkown')        

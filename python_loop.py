@@ -5,7 +5,12 @@
 #for char in name:
 #    print(char)
 
-python_instructors = ["ian", "ali", "john"]
+#python_instructors = ["ian", "ali", "john"]
 #indes                   0      1      3
 
-print (python_instructors[0])
+#for item in python_instructors:
+#    print("Instructor:" , item)
+
+
+
+#list compressions 
