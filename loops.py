@@ -7,4 +7,5 @@ print(len(instructors))
 for instructor in instructors:
     print(instructor)
 
-
+#range 
+print(list(range(1,11)))    
