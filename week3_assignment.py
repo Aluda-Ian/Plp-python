@@ -6,6 +6,7 @@
 #an item and the discount percentage. Print the final price after applying the discount, 
 #or if no discount was applied, print the original price.
 
+67
 def calculate_discount(price, discount_percent):
     if discount_percent >= 20:
         discount_amount = price * (discount_percent / 100)

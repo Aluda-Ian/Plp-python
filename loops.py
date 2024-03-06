@@ -9,3 +9,8 @@ for instructor in instructors:
 
 #range 
 print(list(range(1,11)))    
+
+
+#while loop
+
+
