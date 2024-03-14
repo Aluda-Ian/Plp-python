@@ -1,0 +1,6 @@
+this is assignment on reading and writing files in python 1
+and it is week 6 
+we use read , write , seek functions in file handling
+this is additional lines for the my_file.txt 4
+it is acutaly week 7 at plp
+appending more data to the file
