@@ -80,11 +80,17 @@
 
 
 
+# with open("C:\Users\vinic\Desktop\plp-python\Assignment-2\exampe.txt", 'r') as file:
+#     contents = file.read
+#     print(contents)
 
-
-
-
-
+file = open('filendling in python/understanding how to read and write files in python/exampel.txt','w')
+content = file.write('ian is a good boy')
+# print(content)
+# file.seek()
+# updated_content = file.write('am ian aluda')
+# print(updated_content)
+# file.close()
 
 
 
