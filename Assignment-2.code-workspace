@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../python_module/data-types"
+		},
+		{
+			"path": "../../python_module/ian website"
+		},
+		{
+			"path": "../../python_module/live-classes/control_flow"
+		}
+	],
+	"settings": {}
+}
